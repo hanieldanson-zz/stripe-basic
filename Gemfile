@@ -60,6 +60,7 @@ group :development do
   gem 'stripe-ruby-mock'
   gem 'database_cleaner'
   gem 'rails_best_practices'
+  gem 'brakeman'
 end
 
 
