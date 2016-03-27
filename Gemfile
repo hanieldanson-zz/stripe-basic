@@ -59,6 +59,7 @@ group :development do
   gem 'spring'
   gem 'stripe-ruby-mock'
   gem 'database_cleaner'
+  gem 'rails_best_practices'
 end
 
 
